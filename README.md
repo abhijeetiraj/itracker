@@ -1,4 +1,4 @@
 itracker
 ========
 
-Swing applications inactivity Tracker
+Swing/AWT applications inactivity Tracker
